@@ -6,5 +6,5 @@ This repository contains the code for the first part of the webinar series I am 
 
 The webinar series can be accessed here:
 1. [Genetic Algorithms](https://www.meetup.com/Disrupt-4-0/events/271033356/)
-2. [NeuroEvolution](https://www.meetup.com/Disrupt-4-0/events/271212040/)
+2. [Intro to NeuroEvolution](https://www.meetup.com/Disrupt-4-0/events/zfsxrrybcjbbc/)
 3. [NeuroEvolution of Augmenting Topologies (NEAT)](https://www.meetup.com/Disrupt-4-0/events/271212059/)
